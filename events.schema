@@ -1,0 +1,15 @@
+{
+    "groups": [
+        {
+            "name": "Group Name"
+            "events": [
+                {
+                    "name": "Event name",
+                    "description": "Event content",
+                    "url": "Event page"
+                    "start_datetime": "Event datetime (ISO format)",
+                },
+            ],
+        }
+    ]
+}

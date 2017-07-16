@@ -1,0 +1,10 @@
+{
+    "groups": [
+        {
+            "name": "Group name"
+            "links": [
+                "Web site link (Facebook, Meetup, KKTIX, ...)",
+            ],
+        },
+    ]
+}
