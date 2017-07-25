@@ -8,6 +8,7 @@
                     "description": "Event content",
                     "url": "Event page"
                     "start_datetime": "Event datetime (ISO format)",
+                    "attending_count": "Number of people attending the event",
                 },
             ],
         }
