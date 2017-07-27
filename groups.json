@@ -928,6 +928,18 @@
         },
         {
             "links": [
+                "https://www.meetup.com/Creative-Coding-Taipei/"
+            ],
+            "name": "Creative Coding Taipei"
+        },
+        {
+            "links": [
+                "https://www.meetup.com/Taipei-Elixir-Erlang-Meetup-Group/"
+            ],
+            "name": "Taipei Elixir / Erlang Meetup Group"
+        },
+        {
+            "links": [
                 "http://sdnds-tw.kktix.cc/",
                 "https://www.facebook.com/groups/sdnds.tw/",
                 "http://sdnds.tw/",
