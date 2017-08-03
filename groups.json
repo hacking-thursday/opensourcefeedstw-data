@@ -1,21 +1,25 @@
 {
+    "auto_increment": 659,
     "groups": [
         {
+            "id": 1,
             "links": [
                 "http://phorum.study-area.org/",
                 "http://phorum.study-area.org/index.php/board,22.0.html",
                 "https://plus.google.com/112729012807279156312",
                 "https://www.youtube.com/channel/UCHLnNgRnfGYDzPCCH8qGbQw"
             ],
-            "name": "\u9177\uff01\u5b78\u5712"
+            "name": "酷！學園"
         },
         {
+            "id": 2,
             "links": [
                 "https://www.facebook.com/groups/debian.tw/"
             ],
-            "name": "Debian \u53f0\u7063\u4f7f\u7528\u8005\u793e\u5718"
+            "name": "Debian 台灣使用者社團"
         },
         {
+            "id": 3,
             "links": [
                 "http://www.ubuntu-tw.org/",
                 "https://ubuntu-tw.hackpad.com/",
@@ -23,48 +27,55 @@
                 "https://twitter.com/ubuntu_tw",
                 "http://ubuntu-tw.kktix.cc/"
             ],
-            "name": "Ubuntu \u6b63\u9ad4\u4e2d\u6587\u7ad9"
+            "name": "Ubuntu 正體中文站"
         },
         {
+            "id": 4,
             "links": [
                 "https://www.facebook.com/groups/ubuntu.zh.hant/",
                 "https://plus.google.com/communities/110616242117472323622"
             ],
-            "name": "Ubuntu \u6b63\u9ad4\u4e2d\u6587\u793e\u5718"
+            "name": "Ubuntu 正體中文社團"
         },
         {
+            "id": 5,
             "links": [
                 "https://www.facebook.com/groups/148847361474/"
             ],
-            "name": "Ubuntu-TW \u5728\u5730\u63a8\u5ee3\u7d44"
+            "name": "Ubuntu-TW 在地推廣組"
         },
         {
+            "id": 6,
             "links": [
                 "https://plus.google.com/communities/101238863048851764297"
             ],
-            "name": "Arch Linux \u4e2d\u6587"
+            "name": "Arch Linux 中文"
         },
         {
+            "id": 7,
             "links": [
                 "https://www.facebook.com/groups/opensuse.zh/"
             ],
-            "name": "openSUSE \u6b63\u9ad4\u4e2d\u6587\u793e\u5718"
+            "name": "openSUSE 正體中文社團"
         },
         {
+            "id": 8,
             "links": [
                 "https://www.facebook.com/groups/linuxminttw/"
             ],
-            "name": "LINUX MINT \u4e2d\u6587\u793e\u5718"
+            "name": "LINUX MINT 中文社團"
         },
         {
+            "id": 9,
             "links": [
                 "https://www.facebook.com/groups/543559052337419/",
                 "http://fedora-tw.kktix.cc/",
                 "http://fedora.linux.org.tw/"
             ],
-            "name": "Fedora \u4e2d\u6587\u793e\u5718"
+            "name": "Fedora 中文社團"
         },
         {
+            "id": 10,
             "links": [
                 "http://www.meetup.com/Taipei-py/",
                 "http://www.youtube.com/user/taipeipython"
@@ -72,18 +83,21 @@
             "name": "Taipei.py"
         },
         {
+            "id": 11,
             "links": [
                 "http://www.meetup.com/pythonhug/"
             ],
             "name": "Python Hsinchu User Group"
         },
         {
+            "id": 12,
             "links": [
                 "http://www.meetup.com/Tainan-py-Python-Tainan-User-Group/"
             ],
             "name": "Python Tainan User Group"
         },
         {
+            "id": 13,
             "links": [
                 "https://www.facebook.com/groups/pythontw/",
                 "irc://irc.freenode.net#python.tw"
@@ -91,6 +105,7 @@
             "name": "Python Taiwan"
         },
         {
+            "id": 14,
             "links": [
                 "http://tw.pyladies.com/",
                 "https://twitter.com/PyLadiesTW",
@@ -102,6 +117,7 @@
             "name": "PyLadies Taiwan"
         },
         {
+            "id": 15,
             "links": [
                 "http://ruby.tw/",
                 "http://www.meetup.com/taipei-rails-meetup/",
@@ -111,12 +127,14 @@
             "name": "Ruby Taiwan"
         },
         {
+            "id": 16,
             "links": [
                 "https://www.facebook.com/groups/208890269174940/"
             ],
-            "name": "Ruby on Rails \u8b80\u66f8\u6703"
+            "name": "Ruby on Rails 讀書會"
         },
         {
+            "id": 17,
             "links": [
                 "http://railsgirls.tw/",
                 "https://www.facebook.com/railsgirlstw"
@@ -124,22 +142,26 @@
             "name": "Rails Girls Taiwan"
         },
         {
+            "id": 18,
             "links": [],
             "name": "Rails meetup @Tainan "
         },
         {
+            "id": 19,
             "links": [
                 "https://www.facebook.com/groups/569223303140308/"
             ],
             "name": "Kaohsiung Rails Meetup"
         },
         {
+            "id": 20,
             "links": [
                 "https://www.facebook.com/groups/perl.tw/"
             ],
-            "name": "Perl\u53f0\u7063"
+            "name": "Perl台灣"
         },
         {
+            "id": 21,
             "links": [
                 "https://www.facebook.com/groups/javascript.tw/",
                 "http://javascript-tw.kktix.cc/",
@@ -148,51 +170,59 @@
             "name": "JavaScript.tw"
         },
         {
+            "id": 22,
             "links": [
                 "http://www.meetup.com/javascript-enthusiasts/"
             ],
             "name": "Taipei Javascript Enthusiasts"
         },
         {
+            "id": 23,
             "links": [
                 "https://groups.google.com/forum/#!forum/jquery-"
             ],
-            "name": "jQuery \u53f0\u7063"
+            "name": "jQuery 台灣"
         },
         {
+            "id": 24,
             "links": [
                 "http://nodejs.tw/",
                 "https://www.facebook.com/groups/node.js.tw/",
                 "http://nodejsparty.kktix.cc/"
             ],
-            "name": "node.js\u53f0\u7063"
+            "name": "node.js台灣"
         },
         {
+            "id": 25,
             "links": [
                 "https://www.facebook.com/groups/609637942379913/"
             ],
             "name": "AngularJS.tw"
         },
         {
+            "id": 26,
             "links": [
                 "http://www.extjs.com.tw/"
             ],
-            "name": "Ext JS \u6b63\u9ad4\u4e2d\u6587\u7ad9"
+            "name": "Ext JS 正體中文站"
         },
         {
+            "id": 27,
             "links": [
                 "https://www.facebook.com/groups/199493136812961/"
             ],
-            "name": "PHP \u53f0\u7063"
+            "name": "PHP 台灣"
         },
         {
+            "id": 28,
             "links": [
                 "http://phptheday.kktix.cc/",
                 "https://www.facebook.com/groups/849639948396465/"
             ],
-            "name": "PHP \u4e5f\u6709 Day"
+            "name": "PHP 也有 Day"
         },
         {
+            "id": 29,
             "links": [
                 "http://www.meetup.com/Taiwan-R",
                 "https://www.facebook.com/Tw.R.User",
@@ -201,25 +231,29 @@
             "name": "Taiwan R User Group"
         },
         {
+            "id": 30,
             "links": [
                 "https://plus.google.com/u/0/communities/113583235692012570234"
             ],
             "name": "Qt Taiwan"
         },
         {
+            "id": 31,
             "links": [
                 "https://www.facebook.com/groups/270034869726161/",
                 "https://plus.google.com/u/0/communities/104477566916575050505"
             ],
-            "name": "Android \u53f0\u7063\u958b\u767c\u8005\u793e\u7fa4"
+            "name": "Android 台灣開發者社群"
         },
         {
+            "id": 32,
             "links": [
                 "https://www.facebook.com/SamsungDevsTaiwan"
             ],
             "name": "Samsung Developer Community Taiwan"
         },
         {
+            "id": 33,
             "links": [
                 "https://www.facebook.com/groups/iostw/",
                 "http://www.youtube.com/user/iOSDevClub/",
@@ -228,6 +262,7 @@
             "name": "iOS Dev Club"
         },
         {
+            "id": 34,
             "links": [
                 "http://cocoaheads.tw/",
                 "https://groups.google.com/forum/#!forum/cocoaheadstw"
@@ -235,6 +270,7 @@
             "name": "CocoaHeads Taiwan"
         },
         {
+            "id": 35,
             "links": [
                 "http://cocoaheads.org/tw/Taipei/index.html",
                 "https://twitter.com/CocoaHeads_TPE",
@@ -243,6 +279,7 @@
             "name": "CocoaHeads Taipei"
         },
         {
+            "id": 36,
             "links": [
                 "http://cocoaheads.org/tw/Kaohsiung/index.html",
                 "https://www.facebook.com/groups/cocoaheads.kaohsiung/",
@@ -251,6 +288,7 @@
             "name": "CocoaHeads Kaohsiung"
         },
         {
+            "id": 37,
             "links": [
                 "https://github.com/golangtw",
                 "https://golangtw.hackpad.com/",
@@ -258,9 +296,10 @@
                 "https://twitter.com/golangtw",
                 "http://golang.kktix.cc/"
             ],
-            "name": "Golang \u53f0\u7063\u793e\u7fa4"
+            "name": "Golang 台灣社群"
         },
         {
+            "id": 38,
             "links": [
                 "http://funth.kktix.cc/",
                 "http://www.meetup.com/Functional-Thursday/"
@@ -268,30 +307,35 @@
             "name": "Functional Thursday"
         },
         {
+            "id": 39,
             "links": [
                 "https://www.facebook.com/groups/processingtaipei/"
             ],
             "name": "Processing.Taipei"
         },
         {
+            "id": 40,
             "links": [
                 "https://www.facebook.com/groups/puredata.taipei/"
             ],
             "name": "Puredata.Taipei"
         },
         {
+            "id": 41,
             "links": [
                 "https://www.facebook.com/groups/tbuc.adm/"
             ],
-            "name": "\u53f0\u7063 Blender \u4f7f\u7528\u8005\u5c0f\u805a"
+            "name": "台灣 Blender 使用者小聚"
         },
         {
+            "id": 42,
             "links": [
                 "http://www.meetup.com/Taipei-WordPress-Meetup/"
             ],
             "name": "Taipei WordPress Meetup"
         },
         {
+            "id": 43,
             "links": [
                 "http://drupaltaiwan.org/",
                 "http://drupaltaiwan.org/forums/%E7%B6%9C%E5%90%88%E8%A8%8E%E8%AB%96/%E6%B4%BB%E5%8B%95%E8%A6%8F%E5%8A%83%E3%80%81%E7%99%BC%E4%BD%88"
@@ -299,6 +343,7 @@
             "name": "Drupal Taiwan"
         },
         {
+            "id": 44,
             "links": [
                 "http://kde.linux.org.tw/",
                 "http://kdetw.blogspot.tw/",
@@ -309,52 +354,60 @@
             "name": "KDE Taiwan"
         },
         {
+            "id": 45,
             "links": [
                 "http://ooo.tn.edu.tw/"
             ],
-            "name": "OOo\u53f0\u7063\u793e\u7fa4"
+            "name": "OOo台灣社群"
         },
         {
+            "id": 46,
             "links": [
                 "https://groups.google.com/forum/#!forum/openoffice-tw"
             ],
-            "name": "Apache OpenOffice \u53f0\u7063\u793e\u7fa4"
+            "name": "Apache OpenOffice 台灣社群"
         },
         {
+            "id": 47,
             "links": [
                 "https://www.facebook.com/groups/libreozht.users/"
             ],
-            "name": "LibreOffice \u6b63\u9ad4\u4e2d\u6587\u4f7f\u7528\u8005\u793e\u5718"
+            "name": "LibreOffice 正體中文使用者社團"
         },
         {
+            "id": 48,
             "links": [
                 "https://www.facebook.com/groups/237602986272892/"
             ],
             "name": "Openframeworks Notebook"
         },
         {
+            "id": 49,
             "links": [
                 "https://groups.google.com/forum/#!forum/drbl"
             ],
-            "name": "\u4f01\u9d5d\u9f8d"
+            "name": "企鵝龍"
         },
         {
+            "id": 50,
             "links": [
                 "https://www.facebook.com/groups/htmlfive/",
                 "http://html5.kktix.cc/"
             ],
-            "name": "HTML5 \u8207 CSS3 \u5728\u53f0\u7063"
+            "name": "HTML5 與 CSS3 在台灣"
         },
         {
+            "id": 51,
             "links": [
                 "http://rgba.tw/",
                 "https://www.facebook.com/rgba.tw",
                 "https://twitter.com/rgba_",
                 "https://plus.google.com/106829746237234880643"
             ],
-            "name": "RGBA \u7db2\u8def\u8a2d\u8a08\u5e2b\u805a\u6703"
+            "name": "RGBA 網路設計師聚會"
         },
         {
+            "id": 52,
             "links": [
                 "http://www.f2e.tw/",
                 "http://f2e.kktix.cc/",
@@ -363,22 +416,25 @@
             "name": "Front-End Developers Taiwan"
         },
         {
+            "id": 53,
             "links": [
                 "https://www.facebook.com/groups/358503154261390/",
                 "http://gonsakon-7655f2.kktix.cc/"
             ],
-            "name": "\u9ad8\u96c4\u524d\u7aef\u793e\u7fa4"
+            "name": "高雄前端社群"
         },
         {
+            "id": 54,
             "links": [
                 "http://happydesigner.org/",
                 "http://happydesigner.kktix.cc/",
                 "http://blog.happydesigner.org/",
                 "https://groups.google.com/forum/#!forum/happydesigner"
             ],
-            "name": "HappyDesigner \u5feb\u6a02\u8a2d\u8a08\u5e2b"
+            "name": "HappyDesigner 快樂設計師"
         },
         {
+            "id": 55,
             "links": [
                 "http://belp.kktix.cc/",
                 "https://groups.google.com/forum/?fromgroups#!forum/belp-general",
@@ -387,21 +443,24 @@
             "name": "Belp"
         },
         {
+            "id": 57,
             "links": [
                 "http://www.chroot.org/"
             ],
             "name": "chrO.ot"
         },
         {
+            "id": 58,
             "links": [
                 "http://www.cloudtw.org/",
                 "https://plus.google.com/103415808577399856931",
                 "https://www.facebook.com/CloudTW.org",
                 "https://groups.google.com/forum/#!forum/cloudtw"
             ],
-            "name": "\u53f0\u7063\u96f2\u7aef\u904b\u7b97\u793e\u7fa4"
+            "name": "台灣雲端運算社群"
         },
         {
+            "id": 59,
             "links": [
                 "http://www.hadoop.tw/",
                 "https://www.facebook.com/groups/191142874328429/",
@@ -410,6 +469,7 @@
             "name": "Taiwan Hadoop User Group"
         },
         {
+            "id": 60,
             "links": [
                 "http://awsug.tw/",
                 "https://github.com/AWSUG-TW"
@@ -417,6 +477,7 @@
             "name": "AWS User Group in Taiwan"
         },
         {
+            "id": 61,
             "links": [
                 "http://www.juluos.org/",
                 "https://groups.google.com/forum/#!forum/juluosdev",
@@ -424,9 +485,10 @@
                 "https://www.facebook.com/groups/224024274384934/",
                 "https://juluos.hackpad.com/"
             ],
-            "name": "\u661f\u7cfb\u7d71\u793e\u7fa4"
+            "name": "星系統社群"
         },
         {
+            "id": 62,
             "links": [
                 "http://codefortomorrow.org/",
                 "https://www.facebook.com/CodeForTomorrow",
@@ -439,6 +501,7 @@
             "name": "Code for Tomorrow"
         },
         {
+            "id": 63,
             "links": [
                 "https://www.facebook.com/groups/codeforkaohsiung/",
                 "https://codeforkaohsiung.hackpad.com/",
@@ -450,6 +513,7 @@
             "name": "Code for Kaohsiung"
         },
         {
+            "id": 64,
             "links": [
                 "http://g0v.tw/",
                 "https://groups.google.com/forum/#!forum/g0v-general",
@@ -459,9 +523,10 @@
                 "https://github.com/g0v",
                 "http://g0v-tw.kktix.cc/"
             ],
-            "name": "\u96f6\u6642\u653f\u5e9c"
+            "name": "零時政府"
         },
         {
+            "id": 65,
             "links": [
                 "http://www.openlabtaipei.org/",
                 "https://groups.google.com/forum/#!forum/openlabtaipei",
@@ -471,6 +536,7 @@
             "name": "Openlab.Taipei"
         },
         {
+            "id": 66,
             "links": [
                 "http://www.fablabtaipei.org/",
                 "http://bbs.fablabtaipei.org/forum.php",
@@ -482,6 +548,7 @@
             "name": "Fablab Taipei"
         },
         {
+            "id": 67,
             "links": [
                 "http://taipei.fabcafe.com/",
                 "https://www.facebook.com/FabcafeTaipei"
@@ -489,12 +556,14 @@
             "name": "FabCafe Taipei"
         },
         {
+            "id": 68,
             "links": [
                 "https://www.facebook.com/groups/511228628961577/"
             ],
             "name": "Fablab Tainan"
         },
         {
+            "id": 69,
             "links": [
                 "http://makerbartaipei.com/",
                 "https://www.facebook.com/MakerbarTaipei"
@@ -502,6 +571,7 @@
             "name": "MakerBar Taipei"
         },
         {
+            "id": 70,
             "links": [
                 "http://www.fablabtaiwan.org.tw/",
                 "https://www.facebook.com/pages/Fablab-Dynamic/532700190113349",
@@ -510,6 +580,7 @@
             "name": "Fablab Dynamic"
         },
         {
+            "id": 71,
             "links": [
                 "http://dimensionplus.co/",
                 "https://www.facebook.com/dimensionP"
@@ -517,6 +588,7 @@
             "name": "Dimension+"
         },
         {
+            "id": 72,
             "links": [
                 "https://github.com/taipeihackerspace",
                 "https://www.facebook.com/TaipeiHackerspace",
@@ -530,50 +602,58 @@
             "name": "Taipei Hackerspace"
         },
         {
+            "id": 73,
             "links": [
                 "https://www.facebook.com/groups/arduinotaipei/"
             ],
             "name": "Arduino.Taipei"
         },
         {
+            "id": 74,
             "links": [
                 "https://www.facebook.com/groups/reprap.taipei/"
             ],
             "name": "Reprap.Taipei"
         },
         {
+            "id": 75,
             "links": [
                 "https://www.facebook.com/groups/427010570716215/"
             ],
             "name": "Taiwan 3D Printing"
         },
         {
+            "id": 76,
             "links": [
                 "http://raspberrypi-tw-bdfa45.kktix.cc/",
                 "http://www.raspberrypi.com.tw/"
             ],
-            "name": "Raspberry Pi\u793e\u7fa4"
+            "name": "Raspberry Pi社群"
         },
         {
+            "id": 77,
             "links": [
                 "https://www.facebook.com/groups/DIY.Machine/"
             ],
             "name": "DIY CNC Machine.Taipei"
         },
         {
+            "id": 78,
             "links": [
                 "https://www.facebook.com/groups/Robot.Taipei/"
             ],
             "name": "RoboSmart.Taipei"
         },
         {
+            "id": 79,
             "links": [
                 "http://www.openfoundry.org/",
                 "http://dmfli.kktix.cc/"
             ],
-            "name": "\u81ea\u7531\u8edf\u9ad4\u9444\u9020\u5834"
+            "name": "自由軟體鑄造場"
         },
         {
+            "id": 80,
             "links": [
                 "http://www.tossug.org/",
                 "https://www.facebook.com/groups/tossug/",
@@ -581,9 +661,10 @@
                 "https://tossug.hackpad.com/",
                 "irc://irc.freenode.net#tossug"
             ],
-            "name": "\u53f0\u5317\u958b\u653e\u539f\u59cb\u78bc\u8edf\u9ad4\u4f7f\u7528\u8005\u793e\u7fa4"
+            "name": "台北開放原始碼軟體使用者社群"
         },
         {
+            "id": 81,
             "links": [
                 "http://www.hackingthursday.org/",
                 "https://www.facebook.com/groups/hackingday/",
@@ -597,49 +678,55 @@
                 "irc://irc.freenode.net#h4",
                 "http://www.meetup.com/h4-taiwan/"
             ],
-            "name": "\u563f\u563f\u661f\u671f\u56db"
+            "name": "嘿嘿星期四"
         },
         {
+            "id": 82,
             "links": [
                 "https://www.facebook.com/groups/hsinchu.coders/",
                 "http://www.accupass.com/org/detail/r/503085945394170/1/0"
             ],
-            "name": "\u65b0\u7af9\u78bc\u8fb2\u805a\u6703"
+            "name": "新竹碼農聚會"
         },
         {
+            "id": 83,
             "links": [
                 "http://tcffm.blogspot.tw/",
                 "https://plus.google.com/u/0/communities/103994353345517742722",
                 "https://groups.google.com/forum/#!forum/taichung-foss-fans-meeting",
                 "http://tcffm.blogspot.tw/"
             ],
-            "name": "\u53f0\u4e2d\u81ea\u7531\u8edf\u9ad4\u611b\u597d\u8005\u805a\u6703"
+            "name": "台中自由軟體愛好者聚會"
         },
         {
+            "id": 84,
             "links": [
                 "http://ct.lug.tw/",
                 "https://groups.google.com/forum/#!forum/ctlug-tw",
                 "https://www.facebook.com/groups/ctlug.tw/"
             ],
-            "name": "\u4e2d\u53f0\u7063 Linux \u4f7f\u7528\u8005\u805a\u6703 "
+            "name": "中台灣 Linux 使用者聚會 "
         },
         {
+            "id": 85,
             "links": [
                 "http://kalug.linux.org.tw/",
                 "https://plus.google.com/communities/113465528091946960161",
                 "irc://irc.freenode.net#kalug"
             ],
-            "name": "\u5927\u9ad8\u96c4Linux\u4f7f\u7528\u8005\u5354\u6703"
+            "name": "大高雄Linux使用者協會"
         },
         {
+            "id": 86,
             "links": [
                 "https://www.facebook.com/groups/KSDGroup/",
                 "http://ksdg.kktix.cc/",
                 "https://github.com/KSDG"
             ],
-            "name": "\u9ad8\u96c4\u8edf\u9ad4\u958b\u767c\u8005\u793e\u7fa4"
+            "name": "高雄軟體開發者社群"
         },
         {
+            "id": 87,
             "links": [
                 "http://code.google.com/p/mosut/",
                 "https://www.facebook.com/groups/mosut/",
@@ -648,6 +735,7 @@
             "name": "Meet Open Source Users in Tainan"
         },
         {
+            "id": 88,
             "links": [
                 "http://openhack.github.io/taipei/",
                 "https://www.facebook.com/groups/510083385683277/",
@@ -657,6 +745,7 @@
             "name": "OpenHack Taipei"
         },
         {
+            "id": 89,
             "links": [
                 "http://moztw.org/",
                 "https://plus.google.com/communities/110692367205504504391",
@@ -669,45 +758,51 @@
                 "http://folder.moztw.org/",
                 "https://www.youtube.com/MozTWCommunity"
             ],
-            "name": "Mozilla \u53f0\u7063\u793e\u7fa4"
+            "name": "Mozilla 台灣社群"
         },
         {
+            "id": 90,
             "links": [
                 "http://wofoss.blogspot.tw/",
                 "https://groups.google.com/forum/#!forum/wofoss",
                 "http://wofoss.kktix.cc/",
                 "https://www.facebook.com/groups/wofoss/"
             ],
-            "name": "\u53f0\u7063\u5973\u5b50\u81ea\u7531\u8edf\u9ad4\u5de5\u4f5c\u5c0f\u7d44"
+            "name": "台灣女子自由軟體工作小組"
         },
         {
+            "id": 92,
             "links": [
                 "https://zh.wikipedia.org/wiki/Wikipedia:WPTP-W"
             ],
-            "name": "\u53f0\u7063\u7dad\u57fa\u4eba\u81fa\u5317\u5b9a\u671f\u805a\u6703"
+            "name": "台灣維基人臺北定期聚會"
         },
         {
+            "id": 93,
             "links": [
                 "https://zh.wikipedia.org/wiki/Wikipedia:WPTC"
             ],
-            "name": "\u7dad\u57fa\u767e\u79d1\u53f0\u7063\u793e\u7fa4\u53f0\u4e2d\u805a\u6703"
+            "name": "維基百科台灣社群台中聚會"
         },
         {
+            "id": 94,
             "links": [
                 "http://openstreetmap.tw/",
                 "https://www.facebook.com/groups/OpenStreetMap.TW/",
                 "http://osmtw.kktix.cc/"
             ],
-            "name": "OpenStreetMap \u53f0\u7063"
+            "name": "OpenStreetMap 台灣"
         },
         {
+            "id": 95,
             "links": [
                 "http://programmermagazine.github.io/home/",
                 "https://www.facebook.com/groups/programmerMagazine/"
             ],
-            "name": "\u7a0b\u5f0f\u4eba\u96dc\u8a8c"
+            "name": "程式人雜誌"
         },
         {
+            "id": 96,
             "links": [
                 "http://www.taipei-gtug.org/",
                 "https://www.facebook.com/Taipei.GTUG",
@@ -719,6 +814,7 @@
             "name": "Google Technology User Group"
         },
         {
+            "id": 97,
             "links": [
                 "http://ezgo.westart.tw/",
                 "http://ezgo-tw.blogspot.tw/",
@@ -728,6 +824,7 @@
             "name": "ezgo"
         },
         {
+            "id": 98,
             "links": [
                 "http://igda.tw/",
                 "https://www.youtube.com/user/IGDATaiwan",
@@ -737,9 +834,10 @@
                 "https://twitter.com/IGDA_Taiwan",
                 "http://www.plurk.com/IGDA_TW"
             ],
-            "name": "\u570b\u969b\u904a\u6232\u958b\u767c\u8005\u5354\u6703"
+            "name": "國際遊戲開發者協會"
         },
         {
+            "id": 99,
             "links": [
                 "https://igdshare.org/",
                 "https://www.facebook.com/igdshare",
@@ -751,9 +849,10 @@
                 "https://speakerdeck.com/igdshare",
                 "http://igdshare.kktix.cc/"
             ],
-            "name": "\u7368\u7acb\u904a\u6232\u958b\u767c\u8005\u5206\u4eab\u6703"
+            "name": "獨立遊戲開發者分享會"
         },
         {
+            "id": 100,
             "links": [
                 "http://www.twjug.org/",
                 "https://www.facebook.com/groups/185338705012/",
@@ -763,15 +862,17 @@
             "name": "Taiwan Java User Group"
         },
         {
+            "id": 101,
             "links": [
                 "http://hualien.python.org.tw/",
                 "https://www.facebook.com/groups/hualienpy/",
                 "https://hualienpy.hackpad.com/",
                 "http://www.meetup.com/Hualien-Py/"
             ],
-            "name": "\u82b1\u84ee.py"
+            "name": "花蓮.py"
         },
         {
+            "id": 102,
             "links": [
                 "https://www.facebook.com/groups/lovejoomla/",
                 "http://www.slideshare.net/ilovejoomla"
@@ -779,65 +880,75 @@
             "name": "I Love Joomla!"
         },
         {
+            "id": 103,
             "links": [
                 "https://www.facebook.com/groups/honeynet/",
                 "http://www.honeynet.org.tw/"
             ],
-            "name": "The Honeynet Project \u53f0\u7063\u5206\u6703"
+            "name": "The Honeynet Project 台灣分會"
         },
         {
+            "id": 104,
             "links": [
                 "https://zh.wikipedia.org/wiki/Wikipedia:WPHC"
             ],
-            "name": "\u81fa\u7063\u7dad\u57fa\u4eba\u65b0\u7af9\u805a\u6703"
+            "name": "臺灣維基人新竹聚會"
         },
         {
+            "id": 105,
             "links": [
                 "https://www.facebook.com/groups/tw.wiki/",
                 "http://wikimedia.tw/"
             ],
-            "name": "\u53f0\u7063\u7dad\u57fa\u793e\u7fa4"
+            "name": "台灣維基社群"
         },
         {
+            "id": 106,
             "links": [
                 "https://www.facebook.com/groups/kimugroup/"
             ],
-            "name": "\u9ad8\u96c4\u7368\u7acb\u904a\u6232\u958b\u767c\u8005\u805a\u6703"
+            "name": "高雄獨立遊戲開發者聚會"
         },
         {
+            "id": 107,
             "links": [
                 "https://www.facebook.com/groups/tgadc/"
             ],
-            "name": "\u53f0\u7063\u904a\u6232App\u958b\u767c\u8005\u793e\u7fa4"
+            "name": "台灣遊戲App開發者社群"
         },
         {
+            "id": 108,
             "links": [
                 "http://appdc.tw/",
                 "https://www.facebook.com/groups/appdc/"
             ],
-            "name": "\u53f0\u7063App\u958b\u767c\u8005\u793e\u7fa4"
+            "name": "台灣App開發者社群"
         },
         {
+            "id": 109,
             "links": [
                 "https://www.facebook.com/groups/AndroidTaipei/"
             ],
             "name": "Android Taipei"
         },
         {
+            "id": 110,
             "links": [
                 "https://www.facebook.com/groups/670532946312104/"
             ],
-            "name": "Ruby on Rails \u65b0\u624b\u6751"
+            "name": "Ruby on Rails 新手村"
         },
         {
+            "id": 111,
             "links": [
                 "http://www.ixda.org/local/ixda-taiwan",
                 "https://www.facebook.com/ixda.tw",
                 "https://www.facebook.com/groups/239990612687340/"
             ],
-            "name": "\u793e\u5718\u6cd5\u4eba\u53f0\u7063\u4e92\u52d5\u8a2d\u8a08\u5354\u6703"
+            "name": "社團法人台灣互動設計協會"
         },
         {
+            "id": 112,
             "links": [
                 "https://www.facebook.com/groups/laravel.tw/",
                 "https://www.youtube.com/channel/UCWErrxDEyvS8-HXYhnJ_DtA/playlists",
@@ -846,27 +957,31 @@
                 "https://laraveltw.hackpad.com/",
                 "http://laraveltw.kktix.cc/"
             ],
-            "name": "Laravel \u53f0\u7063"
+            "name": "Laravel 台灣"
         },
         {
+            "id": 113,
             "links": [
                 "https://sites.google.com/site/msp430launchpaddiy/"
             ],
-            "name": "LaunchPad\u4e92\u52d5\u88dd\u7f6e"
+            "name": "LaunchPad互動裝置"
         },
         {
+            "id": 114,
             "links": [
                 "https://sites.google.com/site/raspberrypidiy/"
             ],
-            "name": "\u786c\u6d3ePi\u88fd\u4f5c"
+            "name": "硬派Pi製作"
         },
         {
+            "id": 115,
             "links": [
                 "https://sites.google.com/site/qtguicplusplus/"
             ],
             "name": "QTxTW"
         },
         {
+            "id": 116,
             "links": [
                 "http://www.meetup.com/Docker-Taipei/",
                 "https://www.facebook.com/groups/docker.taipei/"
@@ -874,6 +989,7 @@
             "name": "Docker Taipei"
         },
         {
+            "id": 117,
             "links": [
                 "http://www.meetup.com/HTML5Rocks-Taipei/",
                 "https://www.facebook.com/pages/HTML5rocksTaipei/253205094811150",
@@ -883,62 +999,58 @@
             "name": "HTML5Rocks@Taipei"
         },
         {
+            "id": 118,
             "links": [
                 "https://www.facebook.com/groups/raspberrypi.tw/"
             ],
-            "name": "\u81fa\u7063\u6a39\u8393\u6d3e\u6b63\u9ad4\u4e2d\u6587\u793e\u7fa4"
+            "name": "臺灣樹莓派正體中文社群"
         },
         {
+            "id": 119,
             "links": [
                 "http://taichung-frontend.kktix.cc/",
                 "https://www.facebook.com/groups/taichung.f2e/"
             ],
-            "name": "\u53f0\u4e2d\u524d\u7aef\u793e\u7fa4"
+            "name": "台中前端社群"
         },
         {
+            "id": 120,
             "links": [
                 "http://nosql.org.tw/",
                 "https://www.facebook.com/groups/306552142710977/"
             ],
-            "name": "\u53f0\u7063 NoSQL"
+            "name": "台灣 NoSQL"
         },
         {
+            "id": 121,
             "links": [
                 "https://www.facebook.com/groups/288586661251852/"
             ],
             "name": "S4A"
         },
         {
+            "id": 122,
             "links": [
                 "https://www.facebook.com/groups/179345672472/"
             ],
             "name": "Scrum Community in Taiwan"
         },
         {
+            "id": 123,
             "links": [
                 "https://www.facebook.com/groups/Debian.zh/"
             ],
-            "name": "Debian \u4e2d\u6587\u793e\u5718"
+            "name": "Debian 中文社團"
         },
         {
+            "id": 124,
             "links": [
                 "https://www.facebook.com/groups/110230409014219/"
             ],
-            "name": "\u53f0\u6771\u81ea\u7531\u8edf\u9ad4\u611b\u597d\u793e\u7fa4"
+            "name": "台東自由軟體愛好社群"
         },
         {
-            "links": [
-                "https://www.meetup.com/Creative-Coding-Taipei/"
-            ],
-            "name": "Creative Coding Taipei"
-        },
-        {
-            "links": [
-                "https://www.meetup.com/Taipei-Elixir-Erlang-Meetup-Group/"
-            ],
-            "name": "Taipei Elixir / Erlang Meetup Group"
-        },
-        {
+            "id": 143,
             "links": [
                 "http://sdnds-tw.kktix.cc/",
                 "https://www.facebook.com/groups/sdnds.tw/",
@@ -948,6 +1060,7 @@
             "name": "Software Defined Network Developer Society"
         },
         {
+            "id": 146,
             "links": [
                 "https://www.facebook.com/groups/kaohsiungpy/",
                 "http://kaohsiungpy.kktix.cc/"
@@ -955,30 +1068,35 @@
             "name": "Kaohsiung Python User Group"
         },
         {
+            "id": 147,
             "links": [
                 "http://wasn.csie.ncu.edu.tw:8090/pages/viewpage.action?pageId=13303896"
             ],
-            "name": "\u6843\u5712Python\u4f7f\u7528\u8005\u7fa4\u7d44"
+            "name": "桃園Python使用者群組"
         },
         {
+            "id": 148,
             "links": [
                 "http://www.meetup.com/Taichung-Python-Meetup/"
             ],
             "name": "Taichung Python User Group"
         },
         {
+            "id": 149,
             "links": [
                 "http://www.meetup.com/rails-taiwan/"
             ],
             "name": "Rails Taiwan"
         },
         {
+            "id": 150,
             "links": [
                 "http://taipeirb.kktix.cc/"
             ],
             "name": "Taipei.rb"
         },
         {
+            "id": 153,
             "links": [
                 "https://jsgirls.hackpad.com/",
                 "http://jsgirlstw.kktix.cc/",
@@ -987,24 +1105,28 @@
             "name": "JSGirls"
         },
         {
+            "id": 154,
             "links": [
                 "https://www.facebook.com/groups/polymerjs.taiwan/"
             ],
             "name": "PolymerJS Taiwan"
         },
         {
+            "id": 155,
             "links": [
                 "http://www.meetup.com/Meteor-Taipei/"
             ],
             "name": "Meteor Taipei"
         },
         {
+            "id": 156,
             "links": [
                 "http://www.meetup.com/Taipei-PHP-Developer-Group/"
             ],
             "name": "Taipei PHP Developer Group"
         },
         {
+            "id": 157,
             "links": [
                 "http://k-user.kktix.cc/",
                 "https://www.facebook.com/groups/680228652018057/"
@@ -1012,38 +1134,44 @@
             "name": "Kaohsiung useR! Meetup"
         },
         {
+            "id": 158,
             "links": [
                 "https://plus.google.com/communities/116941083826567836973"
             ],
             "name": "C++ Otakus & Users in Taipei"
         },
         {
+            "id": 159,
             "links": [
                 "http://akdg.kktix.cc/",
                 "https://www.facebook.com/groups/AKDGroup/"
             ],
-            "name": "Android \u9ad8\u96c4\u958b\u767c\u8005\u793e\u7fa4"
+            "name": "Android 高雄開發者社群"
         },
         {
+            "id": 160,
             "links": [
                 "https://www.facebook.com/groups/523386591081376/"
             ],
-            "name": "Android Developer\u958b\u767c\u8b80\u66f8\u6703"
+            "name": "Android Developer開發讀書會"
         },
         {
+            "id": 161,
             "links": [
                 "http://www.meetup.com/Swift-Taipei-User-Group/"
             ],
-            "name": "\u81fa\u5317 Swift \u7a0b\u5f0f\u8a9e\u8a00\u793e\u7fa4"
+            "name": "臺北 Swift 程式語言社群"
         },
         {
+            "id": 163,
             "links": [
                 "https://www.facebook.com/groups/297728497041569/",
                 "http://www.accupass.com/org/detail/r/1407090558017161928200/1/0"
             ],
-            "name": "\u81fa\u7063MySQL\u793e\u7fa4"
+            "name": "臺灣MySQL社群"
         },
         {
+            "id": 165,
             "links": [
                 "http://bj4.wikidot.com/",
                 "https://bj4.hackpad.com/Business-Jungle-Thursday-ap9YW1s5xhg",
@@ -1053,6 +1181,7 @@
             "name": "Business Jungle Thursday"
         },
         {
+            "id": 166,
             "links": [
                 "http://tdohacker.org/",
                 "https://www.facebook.com/tdohacker",
@@ -1061,12 +1190,14 @@
             "name": "The Declaration of hacker"
         },
         {
+            "id": 167,
             "links": [
                 "http://www.meetup.com/%E5%8F%B0%E7%81%A3-PaaS-%E9%9B%B2%E7%AB%AF%E6%8A%80%E8%A1%93%E4%BA%A4%E6%B5%81%E6%9C%83/"
             ],
-            "name": "\u53f0\u7063 PaaS \u96f2\u7aef\u6280\u8853\u4ea4\u6d41\u6703"
+            "name": "台灣 PaaS 雲端技術交流會"
         },
         {
+            "id": 168,
             "links": [
                 "https://www.facebook.com/groups/180981535428325",
                 "http://openstacktw.kktix.cc/",
@@ -1075,6 +1206,7 @@
             "name": "OpenStack Taiwan User Group"
         },
         {
+            "id": 169,
             "links": [
                 "http://www.opendata.tw/",
                 "https://groups.google.com/forum/#!forum/odtw-wg",
@@ -1084,50 +1216,58 @@
             "name": "Open Data / Taiwan"
         },
         {
+            "id": 170,
             "links": [
                 "http://www.code4taiwan.org/"
             ],
             "name": "Code for Taiwan"
         },
         {
+            "id": 171,
             "links": [
                 "https://groups.google.com/forum/#!forum/ckan-taiwan-interest-group"
             ],
             "name": "CKAN Taiwan Interest Group"
         },
         {
+            "id": 172,
             "links": [
                 "http://tw.okfn.org/"
             ],
-            "name": "\u958b\u653e\u77e5\u8b58\u57fa\u91d1\u6703\u53f0\u7063"
+            "name": "開放知識基金會台灣"
         },
         {
+            "id": 175,
             "links": [
                 "https://www.facebook.com/GoodWork.TaiChung",
                 "http://goodwork.hfcc.com.tw/"
             ],
-            "name": "\u4eab\u5be6\u505a\u6a02"
+            "name": "享實做樂"
         },
         {
+            "id": 176,
             "links": [
                 "https://www.facebook.com/futurewards/",
                 "http://www.accupass.com/org/detail/r/559135383947538/1/0"
             ],
-            "name": "\u672a\u4f86\u7522\u623f"
+            "name": "未來產房"
         },
         {
+            "id": 178,
             "links": [
                 "https://www.facebook.com/groups/623465754351776/"
             ],
             "name": "Arduino.Tainan"
         },
         {
+            "id": 179,
             "links": [
                 "https://www.facebook.com/groups/274014402781734/"
             ],
-            "name": "\u8549\u53cb\u793e Banana Pi \u540c\u597d\u6703"
+            "name": "蕉友社 Banana Pi 同好會"
         },
         {
+            "id": 181,
             "links": [
                 "https://www.facebook.com/mobilegirlsfans",
                 "http://mobile-girls.kktix.cc/"
@@ -1135,6 +1275,7 @@
             "name": "Mobile Girls"
         },
         {
+            "id": 182,
             "links": [
                 "http://han-gee.com/",
                 "https://www.facebook.com/groups/HanGee/",
@@ -1143,6 +1284,7 @@
             "name": "HanGee"
         },
         {
+            "id": 183,
             "links": [
                 "https://www.facebook.com/groups/agilecodecamp/",
                 "https://agilecodecamp.hackpad.com/"
@@ -1150,6 +1292,7 @@
             "name": "Agile Code Camp"
         },
         {
+            "id": 185,
             "links": [
                 "http://www.accupass.com/org/detail/r/965090279531912/1/0",
                 "http://www.facebook.com/AgileCommunity.tw",
@@ -1158,12 +1301,14 @@
             "name": "Agile Community Taiwan"
         },
         {
+            "id": 186,
             "links": [
                 "http://ocf.tw/"
             ],
-            "name": "\u958b\u653e\u6587\u5316\u57fa\u91d1\u6703"
+            "name": "開放文化基金會"
         },
         {
+            "id": 187,
             "links": [
                 "https://docs.google.com/forms/d/1FKhv8wliODwj_QLNMpDMZi4LJ_huxanJBTm8rqbILIc/viewform",
                 "http://djangogirls.kktix.cc/",
@@ -1173,6 +1318,7 @@
             "name": "Django Girls Taipei"
         },
         {
+            "id": 188,
             "links": [
                 "https://hackpad.com/Emacs.tw-UGK6KMWTUXh",
                 "https://trello.com/b/mSnzszhM/-",
@@ -1184,6 +1330,7 @@
             "name": "Emacs Taiwan"
         },
         {
+            "id": 191,
             "links": [
                 "http://kaohsiung.gtugs.org/",
                 "http://www.plurk.com/ksgtug",
@@ -1194,42 +1341,49 @@
             "name": "Kaohsiung GTUG"
         },
         {
+            "id": 195,
             "links": [
                 "https://www.facebook.com/PunPlace",
                 "http://tdcp.kktix.cc/",
                 "http://www.tdcp.org.tw/"
             ],
-            "name": "\u81fa\u5357\u6578\u4f4d\u6587\u5275\u5712\u5340"
+            "name": "臺南數位文創園區"
         },
         {
+            "id": 196,
             "links": [
                 "http://www.meetup.com/Coursera/Taipei-TW/"
             ],
             "name": "Taipei Coursera Community"
         },
         {
+            "id": 199,
             "links": [
                 "http://www.meetup.com/Taipei-AngularJS-Meetup/"
             ],
             "name": "Taipei AngularJS Meetup"
         },
         {
+            "id": 211,
             "links": [
                 "http://railsfun.tw"
             ],
             "name": "RailsFun.TW"
         },
         {
+            "id": 212,
             "links": [
                 "https://plus.google.com/communities/116941083826567836973"
             ],
             "name": "C++ Otakus & Users in Taipei"
         },
         {
+            "id": 214,
             "links": [],
             "name": "R ladies"
         },
         {
+            "id": 215,
             "links": [
                 "http://www.hst.tw/",
                 "https://www.facebook.com/Hack.Stuff",
@@ -1239,12 +1393,14 @@
             "name": "Hack Stuff Technology"
         },
         {
+            "id": 227,
             "links": [
                 "https://www.facebook.com/groups/RaspberryTaipei/"
             ],
             "name": "Raspberry.Taipei"
         },
         {
+            "id": 230,
             "links": [
                 "https://www.facebook.com/groups/reactjs.tw/",
                 " https://github.com/reactjstw",
@@ -1253,18 +1409,21 @@
             "name": "ReactJS.tw"
         },
         {
+            "id": 231,
             "links": [
                 "https://www.facebook.com/groups/famous.tw/"
             ],
             "name": "Famo.us Taiwan"
         },
         {
+            "id": 236,
             "links": [
                 "https://www.facebook.com/groups/swifttw/"
             ],
             "name": "Swift Taiwan"
         },
         {
+            "id": 249,
             "links": [
                 "https://twitter.com/LispTaiwan",
                 "http://www.meetup.com/Lisp-Taiwan/"
@@ -1272,48 +1431,56 @@
             "name": "Lisp Taiwan"
         },
         {
+            "id": 251,
             "links": [
                 "http://www.meetup.com/Taiwan-Spark-Meetup/"
             ],
             "name": "Taiwan Spark Meetup"
         },
         {
+            "id": 254,
             "links": [
                 "http://www.meetup.com/playdata/"
             ],
             "name": "PyData / PlaY data"
         },
         {
+            "id": 255,
             "links": [
                 "http://www.meetup.com/Taipei-D3-js-Meetup/"
             ],
             "name": "Taipei D3.js Meetup"
         },
         {
+            "id": 256,
             "links": [
                 "http://www.meetup.com/ElasticSearch-Taipei/"
             ],
             "name": "ElasticSearch Taipei"
         },
         {
+            "id": 257,
             "links": [
                 "https://www.facebook.com/groups/221988101318361/"
             ],
             "name": "MariaDB User Group Taiwan"
         },
         {
+            "id": 263,
             "links": [
                 "http://www.meetup.com/WebGL-Taipei/"
             ],
             "name": "WebGL Taipei"
         },
         {
+            "id": 264,
             "links": [
                 "http://www.meetup.com/Taipei-Web-Performance-Group-Meetup/"
             ],
             "name": "Taipei Web Performance Group Meetup"
         },
         {
+            "id": 275,
             "links": [
                 "http://gittw.kktix.cc/",
                 "https://www.facebook.com/groups/git.tw/",
@@ -1322,6 +1489,7 @@
             "name": "Git.tw"
         },
         {
+            "id": 276,
             "links": [
                 "https://www.facebook.com/groups/twlinuxkernelhackers/",
                 "https://twlinuxkernelhackers.hackpad.com/"
@@ -1329,12 +1497,14 @@
             "name": "Taiwan Linux Kernel Hackers"
         },
         {
+            "id": 279,
             "links": [
                 "http://coder-dojo-taipei.kktix.cc/"
             ],
             "name": "Coder Dojo Taipei"
         },
         {
+            "id": 284,
             "links": [
                 "https://www.facebook.com/Clojure.taiwan",
                 "https://clojure.tw/",
@@ -1344,6 +1514,7 @@
             "name": "Clojure Taiwan"
         },
         {
+            "id": 294,
             "links": [
                 "https://www.facebook.com/groups/GCPUG.TW/",
                 "http://gcpug.tw/",
@@ -1354,24 +1525,28 @@
             "name": "Google Cloud Platform User Group Taiwan"
         },
         {
+            "id": 307,
             "links": [
                 "https://www.facebook.com/groups/797598203642584/"
             ],
             "name": "Webduino"
         },
         {
+            "id": 308,
             "links": [
                 "https://www.facebook.com/groups/DevOpsTaiwan/"
             ],
             "name": "DevOps Taiwan"
         },
         {
+            "id": 309,
             "links": [
                 "http://www.meetup.com/Ansible-Taipei/"
             ],
             "name": "Ansible Taipei"
         },
         {
+            "id": 396,
             "links": [
                 "https://www.facebook.com/groups/Agile.Taichung/",
                 "http://www.accupass.com/go/agiletourtc2015",
@@ -1380,25 +1555,42 @@
             "name": "Agile.Taichung"
         },
         {
+            "id": 416,
             "links": [
                 "http://tapl.kktix.cc/"
             ],
-            "name": "Types and Programming Language \u8b80\u66f8\u6703"
+            "name": "Types and Programming Language 讀書會"
         },
         {
+            "id": 442,
             "links": [
                 "https://www.facebook.com/jstainan",
                 "https://www.facebook.com/groups/1679708602271760/",
                 "http://jstainan.github.io/"
             ],
-            "name": "\u53f0\u5357Javascript\u958b\u767c\u8005\u793e\u7fa4"
+            "name": "台南Javascript開發者社群"
         },
         {
+            "id": 458,
             "links": [
                 "http://www.meetup.com/RUST-TW/",
                 "https://rustw.hackpad.com/"
             ],
             "name": "RUST.TW"
+        },
+        {
+            "id": 653,
+            "links": [
+                "https://www.meetup.com/Creative-Coding-Taipei/"
+            ],
+            "name": "Creative Coding Taipei"
+        },
+        {
+            "id": 654,
+            "links": [
+                "https://www.meetup.com/Taipei-Elixir-Erlang-Meetup-Group/"
+            ],
+            "name": "Taipei Elixir / Erlang Meetup Group"
         }
     ]
 }
