@@ -1,5 +1,5 @@
 {
-    "auto_increment": 659,
+    "auto_increment": 661,
     "groups": [
         {
             "id": 1,
@@ -1591,6 +1591,21 @@
                 "https://www.meetup.com/Taipei-Elixir-Erlang-Meetup-Group/"
             ],
             "name": "Taipei Elixir / Erlang Meetup Group"
+        },
+        {
+            "id": 659,
+            "links": [
+                "https://www.meetup.com/Taipei-Ethereum-Meetup/",
+                "https://www.facebook.com/eth.taipei/"
+            ],
+            "name": "Taipei Ethereum Meetup"
+        },
+        {
+            "id": 660,
+            "links": [
+                "https://www.meetup.com/Scala-Taiwan-Meetup/"
+            ],
+            "name": "Scala Taiwan Meetup"
         }
     ]
 }
